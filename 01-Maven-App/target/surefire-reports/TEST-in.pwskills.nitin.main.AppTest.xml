@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="in.pwskills.nitin.main.AppTest" time="0.048" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\mavenTools\01-Maven-App\target\test-classes;C:\Users\ROMIN\Desktop\MicroServices_with_Java\mavenTools\01-Maven-App\target\classes;C:\Users\ROMIN\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Toronto"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\ROMIN\AppData\Local\Temp\surefire11685391635460154600\surefirebooter-20240622083455130_3.jar C:\Users\ROMIN\AppData\Local\Temp\surefire11685391635460154600 2024-06-22T08-34-54_733-jvmRun1 surefire-20240622083455130_1tmp surefire_0-20240622083455130_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\mavenTools\01-Maven-App\target\test-classes;C:\Users\ROMIN\Desktop\MicroServices_with_Java\mavenTools\01-Maven-App\target\classes;C:\Users\ROMIN\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\ROMIN"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-08-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-18.0.2.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\mavenTools\01-Maven-App"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\ROMIN\AppData\Local\Temp\surefire11685391635460154600\surefirebooter-20240622083455130_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="18.0.2.1+1-1"/>
+    <property name="user.name" value="ROMIN"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\ROMIN\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ROMIN\AppData\Local\Temp\"/>
+    <property name="java.version" value="18.0.2.1"/>
+    <property name="user.dir" value="C:\Users\ROMIN\Desktop\MicroServices_with_Java\mavenTools\01-Maven-App"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-18.0.2.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\anaconda3\Scripts\;C:\ProgramData\anaconda3\;C:\Python311\Scripts\;C:\Python311\;C:\Users\ROMIN\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\ROMIN\AppData\Local\Programs\Python\Python310\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\MinGW\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-18.0.2.1\bin;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ROMIN\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\ROMIN\AppData\Local\Programs\Python\Python312\;C:\Users\ROMIN\AppData\Local\Microsoft\WindowsApps;C:\Users\ROMIN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3\bin;C:\Users\ROMIN\AppData\Local\atom\bin;C:\Users\ROMIN\development\sdks\flutter_windows_2.8.1-stable\flutter\bin;;C:\Users\ROMIN\AppData\Local\Programs\Hyper\resources\bin;C:\Program Files\heroku\bin;C:\Users\ROMIN\AppData\Local\Microsoft\WindowsApps;C:\Users\ROMIN\AppData\Roaming\npm;C:\Users\ROMIN\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3\bin;;C:\Users\ROMIN\AppData\Local\Programs\Ollama;C:\Program Files (x86)\Nmap;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="18.0.2.1+1-1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+  <testcase name="testwithPositiveNumber" classname="in.pwskills.nitin.main.AppTest" time="0.01"/>
+  <testcase name="testSumWithMixedNumber" classname="in.pwskills.nitin.main.AppTest" time="0.0"/>
+</testsuite>
