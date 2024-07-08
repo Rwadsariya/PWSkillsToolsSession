@@ -1,2 +1,2 @@
-jbdcrul=jdbc:mysql:///pwskills_octbatch/google-data
+jbdcrpassword=121root
 jdbcuser=root
