@@ -1,2 +1,2 @@
-jbdcrul=jdbc:mysql:///pwskills_octbatch
+jbdcrul=jdbc:mysql:///pwskills_octbatch/google-data
 jdbcuser=root
