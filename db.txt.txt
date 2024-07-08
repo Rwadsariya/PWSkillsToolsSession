@@ -1,0 +1,2 @@
+jbdcUsername=root
+jdbcpassword=root`12
