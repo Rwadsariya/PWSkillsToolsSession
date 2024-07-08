@@ -1,1 +1,2 @@
 jbdcrul=jdbc:mysql:///pwskills_octbatch
+jdbcuser=root
